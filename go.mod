@@ -1,9 +1,8 @@
-module github.com/szkiba/xk6-dotenv
+module github.com/j-etienne/xk6-dotenv
 
-go 1.16
+go 1.18
 
 require (
-	github.com/joho/godotenv v1.3.0
-	github.com/stretchr/testify v1.7.0
-	go.k6.io/k6 v0.32.0
+	github.com/joho/godotenv v1.4.0
+	go.k6.io/k6 v0.39.0
 )
